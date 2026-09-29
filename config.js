@@ -1,0 +1,1 @@
+window['SKINLIBRE']={'brand':'SkinLibre','domain':'skinlibre.com','donate':{'kofi':'','bmc':'https://buymeacoffee.com/skinlibre'}};

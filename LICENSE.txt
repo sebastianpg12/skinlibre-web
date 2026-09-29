@@ -1,0 +1,3 @@
+© 2026 SkinLibre. Todos los derechos reservados.
+Este código se publica solo para servir skinlibre.com. No se permite copiarlo, modificarlo, redistribuirlo ni hacerle ingeniería inversa.
+Las librerías de terceros en vendor/ conservan sus propias licencias.

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skinlibre.com/sitemap.xml
